@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FriendshipApp</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="foods">
+        <item>Banana</item>
+        <item>Apple</item>
+        <item>Grapes</item>
+        <item>PIneApple</item>
+        <item>Orange</item>
+        <item>Mango</item>
+    </string-array>
+    <string name="title_activity_map">MapActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">MapDistance</string>
+</resources>
